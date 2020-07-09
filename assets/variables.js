@@ -7,13 +7,9 @@ const variables = {
     night: "Good Night",
   },
   quotes: [
-    { quote: "I'm sorry for loving you.", author: "standinhsd" },
-    { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
-    { quote: "Love chuuu", author: "Bribri" },
+    { quote: "141 Diamond = 30.000 |282 Diamond = 57.000 |345 Diamond = 70.000| 415 Diamond = 90.000 |708 Diamond = 135.000 |1446 Diamond = 280.000 |2976 Diamond = 550.000 |Via id (server) |legal 1000000% |payment Ovo,dana |pc: 089654933753", author: "Syahrul" },
   ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
+  nicknames: ["Friends"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
